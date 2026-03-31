@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student of Computer Science and Engineering<br>I love programming<br>Cyber Security fascinates me <br>I know python c html css java script <br>I know about tools like vs code github etc <br>i have interest in web dev and cyber security <br>M goal is to be a good programmer and a cyber security expert <br><br><br>
+I am currently a student of Computer Science and Engineering<br>I love programming<br>Cyber Security fascinates me <br>I know python c html css java script <br>I know about tools like vs code github etc <br>i have interest in web dev and cyber security <br>My goal is to be a good programmer and a cyber security expert <br><br><br>
 
 
 ## 🌐 Socials:
